@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/thiago-barros-souza">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiago-barros-souza&show_icons=true&theme=ligth&include_all_commits=true&count_private=true" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiago-barros-souza&show_icons=true&theme=ligth&include_all_commits=true&count_private=false" />
     </a>
     <a href="https://github.com/thiago-barros-souza">
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-barros-souza&langs_count=8&theme=ligth" />
