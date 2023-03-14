@@ -1,4 +1,4 @@
-## Hi, I'm is Thiago barros
+## Hi, I'm Thiago Barros
 
 <div align="center">
     <a href="https://github.com/thiago-barros-souza">
