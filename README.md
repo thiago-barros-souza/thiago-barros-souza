@@ -1,9 +1,9 @@
 ## Hi, I'm Thiago Barros
 
-<div align="center">
+<div style="display: flex; justify-content: space-between; gap: 1rem;">
     <a href="https://github.com/thiago-barros-souza">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiago-barros-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-barros-souza&theme=dracula" />
+        <img width="70%" src="https://github-readme-stats.vercel.app/api?username=thiago-barros-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-barros-souza&theme=dracula" />
     </a>
 </div>
 
