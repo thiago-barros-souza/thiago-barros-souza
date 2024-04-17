@@ -2,10 +2,10 @@
 
 <div align="center">
     <a href="https://github.com/thiago-barros-souza">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiago-barros-souza&show_icons=true&theme=ligth&include_all_commits=true&count_private=true" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=thiago-barros-souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     </a>
     <a href="https://github.com/thiago-barros-souza">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-barros-souza&langs_count=8&theme=ligth" />
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-barros-souza&langs_count=8&theme=dark" />
     </a>
 </div>
 
@@ -18,8 +18,8 @@
     <img alt="logo-typescript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img alt="logo-php" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
     <img alt="logo-laravel" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
-    <img alt="logo-laravel" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-    <img alt="logo-laravel" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+    <img alt="logo-java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+    <img alt="logo-spring" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 </div>
 
 ##
