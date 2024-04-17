@@ -17,7 +17,7 @@
     <img alt="logo-javascript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img alt="logo-typescript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img alt="logo-php" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-    <img alt="logo-laravel" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+    <img alt="logo-laravel" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
     <img alt="logo-java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
     <img alt="logo-spring" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 </div>
